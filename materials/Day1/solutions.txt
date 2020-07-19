@@ -1,0 +1,1 @@
+hashonhash : https://github.com/easyctf/easyctf-2017-writeups/blob/master/cryptography/hash-on-hash-100-points.md

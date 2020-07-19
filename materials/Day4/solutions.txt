@@ -1,0 +1,11 @@
+pcap : https://github.com/ctfs/write-ups-2014/tree/master/csaw-ctf-2014/big-data
+
+traffic-5 : https://github.com/ctfs/write-ups-2014/tree/master/csaw-ctf-2014/why-not-sftp
+
+traffic - https://github.com/VulnHub/ctf-writeups/blob/master/2014/picoctf/spoof-proof.md
+
+intercept: https://github.com/ctfs/write-ups-2014/blob/b02bcbb2737907dd0aa39c5d4df1d1e270958f54/pico-ctf-2014/forensics/intercepted-post-40/README.md
+
+pdf : https://github.com/ctfs/write-ups-2014/tree/master/csaw-ctf-2014/obscurity
+
+

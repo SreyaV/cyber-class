@@ -1,0 +1,9 @@
+handout - https://ehsan.dev/pico2014/cryptography/rsa.html
+
+cyborg - https://ehsan.dev/pico2014/reverse_engineering/cyborg_secrets.html
+
+rsa1 - https://github.com/easyctf/easyctf-2017-writeups/blob/master/cryptography/rsa-1-50-points.md
+
+unrelated - https://github.com/easyctf/easyctf-2017-writeups/blob/master/cryptography/flip-my-letters-20-points.md
+
+unrelated-2: https://github.com/ctfs/write-ups-2015/tree/master/csaw-ctf-2015/crypto/zer0-day-50

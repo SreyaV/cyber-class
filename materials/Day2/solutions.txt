@@ -1,0 +1,7 @@
+lion : https://github.com/easyctf/easyctf-2017-writeups/blob/master/forensics/mane-event-50-points.md
+
+elif: https://github.com/easyctf/easyctf-2017-writeups/blob/master/forensics/scisnerof-75-points.md
+
+file 1 and file 2 : https://github.com/easyctf/easyctf-2017-writeups/blob/master/forensics/petty-difference-75-points.md
+
+flag : jpeg header
