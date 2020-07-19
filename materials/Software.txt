@@ -1,0 +1,7 @@
+7-zip (https://www.7-zip.org/)  (not needed for MacOS)
+
+Wireshark (https://www.wireshark.org/)
+
+Any Hex Editor (for example: https://mh-nexus.de/en/hxd/)
+
+Python (https://www.python.org/downloads/)

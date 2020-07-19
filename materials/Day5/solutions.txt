@@ -1,0 +1,12 @@
+spam - https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/stegano/strange-spam-100
+
+task - https://github.com/ctfs/write-ups-2015/tree/master/school-ctf-2015/stegano/tacticus-abilitus-100
+
+apple - https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/forensics/an-apple-a-day-keeps-the-dinosaur-away
+
+ispy - https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/forensics/ispy
+
+secret - https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/forensics/liar
+
+lolteam - https://github.com/ctfs/write-ups-2015/tree/master/easyctf-2015/forensics/lolteam
+
