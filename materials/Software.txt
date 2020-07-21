@@ -2,6 +2,6 @@
 
 Wireshark (https://www.wireshark.org/)
 
-Any Hex Editor (for example: https://mh-nexus.de/en/hxd/)
+Any Hex Editor (for example: https://mh-nexus.de/en/hxd/) or if you have a Mac use: (https://ridiculousfish.com/hexfiend/)
 
 Python (https://www.python.org/downloads/)
